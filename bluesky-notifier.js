@@ -4,7 +4,7 @@ const {
     BLUESKY_USERNAME,
     BLUESKY_APP_PASSWORD,
     DISCORD_WEBHOOK_URL,
-    NOTIFY_INTERVAL_MIN = 1
+    NOTIFY_INTERVAL_MIN
 } = process.env;
 
 /** env check */ 
