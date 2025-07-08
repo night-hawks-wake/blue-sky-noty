@@ -1,0 +1,12 @@
+{
+  "name": "blue-sky-noty-bot",
+  "version": "1.0.0",
+  "main": "bluesky-notifier.js",
+  "scripts": {
+    "start": "node bluesky-notifier.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
